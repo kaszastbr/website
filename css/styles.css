@@ -1,0 +1,110 @@
+/* Header styles */
+#header {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    display: block; /* Ensure it's not hidden */
+    width: 100%;
+    box-sizing: border-box; /* To include padding in width */
+}
+
+#header nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 10px;
+}
+
+#header nav ul li {
+    display: inline-block;
+    margin: 0 15px;
+}
+
+#header nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#header nav ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Footer styles */
+#footer {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    display: block; /* Ensure it's not hidden */
+    box-sizing: border-box;
+}
+
+#footer p {
+    margin: 5px 0;
+}
+
+/* Content styles */
+.content {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.content h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+/* Navigation bar (horizontal) */
+nav {
+    background-color: #333;
+    padding: 10px 0;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Responsive styles */
+@media screen and (max-width: 768px) {
+    #header nav ul {
+        text-align: center;
+    }
+
+    #header nav ul li {
+        display: block;
+        margin-bottom: 10px;
+    }
+
+    .content {
+        padding: 20px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    #header nav ul li {
+        font-size: 16px;
+    }
+}

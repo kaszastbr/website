@@ -1,0 +1,117 @@
+{
+    "en": {
+      "index": {
+        "h1": "Welcome to Our Website",
+        "p1": "This is the homepage, where you can learn more about our services.",
+        "p2": "Explore our products, read about us, and contact us for more information."
+      },
+      "about": {
+        "h1": "About Us",
+        "p1": "We are a company focused on delivering high-quality products and services."
+      },
+      "products": {
+        "h1": "Our Products",
+        "p1": "We offer a wide variety of products to suit your needs."
+      },
+      "contact": {
+        "h1": "Contact Us",
+        "p1": "Reach out to us for any inquiries or feedback."
+      }
+    },
+    "hu": {
+      "index": {
+        "h1": "Üdvözöljük weboldalunkon",
+        "p1": "Ez a főoldal, ahol többet megtudhat szolgáltatásainkról.",
+        "p2": "Fedezze fel termékeinket, olvassa el rólunk, és lépjen kapcsolatba velünk további információkért."
+      },
+      "about": {
+        "h1": "Rólunk",
+        "p1": "Cégünk a magas minőségű termékek és szolgáltatások biztosítására összpontosít."
+      },
+      "products": {
+        "h1": "Termékeink",
+        "p1": "Széles választékot kínálunk termékeinkből, hogy megfeleljünk igényeinek."
+      },
+      "contact": {
+        "h1": "Kapcsolatfelvétel",
+        "p1": "Bármilyen kérdésekkel vagy visszajelzésekkel forduljon hozzánk."
+      }
+    },
+    "de": {
+      "index": {
+        "h1": "Willkommen auf unserer Website",
+        "p1": "Dies ist die Homepage, auf der Sie mehr über unsere Dienstleistungen erfahren können.",
+        "p2": "Entdecken Sie unsere Produkte, lesen Sie über uns und kontaktieren Sie uns für weitere Informationen."
+      },
+      "about": {
+        "h1": "Über uns",
+        "p1": "Wir sind ein Unternehmen, das sich auf die Lieferung hochwertiger Produkte und Dienstleistungen konzentriert."
+      },
+      "products": {
+        "h1": "Unsere Produkte",
+        "p1": "Wir bieten eine große Auswahl an Produkten, die Ihren Bedürfnissen entsprechen."
+      },
+      "contact": {
+        "h1": "Kontaktieren Sie uns",
+        "p1": "Kontaktieren Sie uns bei Fragen oder Feedback."
+      }
+    },
+    "fr": {
+      "index": {
+        "h1": "Bienvenue sur notre site Web",
+        "p1": "C'est la page d'accueil, où vous pouvez en savoir plus sur nos services.",
+        "p2": "Explorez nos produits, découvrez notre entreprise et contactez-nous pour plus d'informations."
+      },
+      "about": {
+        "h1": "À propos de nous",
+        "p1": "Nous sommes une entreprise axée sur la fourniture de produits et services de haute qualité."
+      },
+      "products": {
+        "h1": "Nos produits",
+        "p1": "Nous proposons une large gamme de produits pour répondre à vos besoins."
+      },
+      "contact": {
+        "h1": "Contactez-nous",
+        "p1": "Contactez-nous pour toute question ou commentaire."
+      }
+    },
+    "nl": {
+      "index": {
+        "h1": "Welkom op onze website",
+        "p1": "Dit is de homepage, waar je meer kunt leren over onze diensten.",
+        "p2": "Verken onze producten, lees over ons en neem contact met ons op voor meer informatie."
+      },
+      "about": {
+        "h1": "Over ons",
+        "p1": "Wij zijn een bedrijf dat zich richt op het leveren van hoogwaardige producten en diensten."
+      },
+      "products": {
+        "h1": "Onze producten",
+        "p1": "Wij bieden een breed scala aan producten die aan uw behoeften voldoen."
+      },
+      "contact": {
+        "h1": "Neem contact met ons op",
+        "p1": "Neem contact met ons op voor vragen of feedback."
+      }
+    },
+    "be": {
+      "index": {
+        "h1": "Bienvenue sur notre site Web",
+        "p1": "C'est la page d'accueil où vous pouvez en savoir plus sur nos services.",
+        "p2": "Explorez nos produits, découvrez notre entreprise et contactez-nous pour plus d'informations."
+      },
+      "about": {
+        "h1": "À propos de nous",
+        "p1": "Nous sommes une entreprise axée sur la fourniture de produits et services de haute qualité."
+      },
+      "products": {
+        "h1": "Nos produits",
+        "p1": "Nous proposons une large gamme de produits pour répondre à vos besoins."
+      },
+      "contact": {
+        "h1": "Contactez-nous",
+        "p1": "Contactez-nous pour toute question ou commentaire."
+      }
+    }
+  }
+  
