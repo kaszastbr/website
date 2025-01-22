@@ -85,25 +85,3 @@ document.getElementById('language-selector').addEventListener('change', function
     const selectedLang = this.value;  // Get selected language from the dropdown
     setLang(selectedLang);  // Set the selected language in localStorage
 });
-
-
-// Get the base path (repo name) dynamically from the URL
-const basePath = window.location.pathname.split('/')[1];
-
-// Function to update the asset paths dynamically
-function updateAssetPaths() {
-  // Update CSS path
-  const cssLink = document.getElementById('css-link');
-  if (cssLink) {
-    cssLink.href = `/${basePath}${cssLink.getAttribute('href')}`;
-  }
-
-  // Update JS path
-  const jsScript = document.getElementById('js-script');
-  if (jsScript) {
-    jsScript.src = `/${basePath}${jsScript.getAttribute('src')}`;
-  }
-}
-
-// Run the function to update the paths once the document is ready
-document.addEventListener('DOMContentLoaded', updateAssetPaths);
