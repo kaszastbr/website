@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const lang = getCurrentLang();
     
     // Fetch the language data from the JSON file
-    fetch('../assets/languages.json')
+    fetch('/assets/languages.json')
         .then(response => response.json())
         .then(languageData => {
             // Ensure the language data exists for the selected language

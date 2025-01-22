@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function() {
     }
     
     // Fetch the language data from the JSON file
-    fetch('../assets/languages.json')
+    fetch('/assets/languages.json')
     .then(response => response.json())
     .then(languageData => {
         if (languageData[lang]) {
