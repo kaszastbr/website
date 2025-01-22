@@ -85,3 +85,12 @@ document.getElementById('language-selector').addEventListener('change', function
     const selectedLang = this.value;  // Get selected language from the dropdown
     setLang(selectedLang);  // Set the selected language in localStorage
 });
+
+
+// Get the base path (repo name) dynamically
+const basePath = window.location.pathname.split('/')[1];
+
+// Helper function to load assets relative to the repository
+function getAssetPath(path) {
+  return `/${basePath}${path}`;
+}
